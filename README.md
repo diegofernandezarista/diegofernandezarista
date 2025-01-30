@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🚀 Welcome to My Analytics Edge!
 
-Hey there! I'm **Diego Fernandez Arista**, an Industrial Engineer turned Data Analytics & Business Intelligence Specialist", shaping insights and building data-driven magic. 
+Hey there! I'm **Diego Fernandez Arista**, an Industrial Engineer turned Data Analytics & Business Intelligence Specialist, shaping insights and building data-driven magic. 
 
 ---
 
